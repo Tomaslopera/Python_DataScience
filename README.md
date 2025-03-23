@@ -38,3 +38,13 @@ Aplicación de algoritmos de **Aprendizaje No Supervisado con Scikit-Learn** uti
 
 ### 8. Juego Navegación en un Laberinto (Q-Learning)
 Desarrollo de un agente inteligente capaz de navegar un laberinto utilizando algoritmos de **Aprendizaje por Refuerzo**, evitando obstáculos y encontrando el camino óptimo hasta el objetivo.
+
+### 9. Gestión Segura de Datos de Clientes
+Implementación de un sistema básico de gestión y análisis de datos de clientes, aplicando técnicas de anonimización, pseudonimización y balanceo de datos para garantizar la seguridad y equidad en los análisis.
+
+### 10. Optimización de Modelos de Machine Learning
+Análisis y optimización de un modelo de **Bosques Aleatorios** utilizando un dataset de **Scikit-Learn** sobre registros médicos de pacientes con diabetes.  
+- **Preprocesamiento de datos** con `StandardScaler`  
+- **Selección de mejores categorías**  
+- **Pipelines** para organizar el flujo de datos  
+- **Evaluación del modelo**  
