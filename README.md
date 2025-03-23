@@ -12,7 +12,9 @@ El repositorio está organizado en diferentes carpetas, cada una correspondiente
 - **Seaborn**: Visualización de datos avanzadas  
 - **Scikit-learn**: Modelos de aprendizaje automático  
 - **Scipy**: Algoritmos de clustering jerárquico  
-- **Q-Learning**: Aprendizaje por refuerzo  
+- **Q-Learning**: Aprendizaje por refuerzo
+- **Plotly**: Visualización interactiva de datos  
+- **Dash**: Creación de dashboards web interactivos 
 
 ## Proyectos
 ### 1. Análisis de Medallas Olímpicas
@@ -44,7 +46,6 @@ Implementación de un sistema básico de gestión y análisis de datos de client
 
 ### 10. Optimización de Modelos de Machine Learning
 Análisis y optimización de un modelo de **Bosques Aleatorios** utilizando un dataset de **Scikit-Learn** sobre registros médicos de pacientes con diabetes.  
-- **Preprocesamiento de datos** con `StandardScaler`  
-- **Selección de mejores categorías**  
-- **Pipelines** para organizar el flujo de datos  
-- **Evaluación del modelo**  
+
+### 11. Dashboard de Terremotos a Nivel Mundial
+Desarrollo de un dashboard interactivo con **Plotly** y **Dash** para visualizar datos de terremotos proporcionados.
