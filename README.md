@@ -1,4 +1,4 @@
-README# Data Science Extremo - Proyectos del Curso de Udemy
+# Data Science Extremo - Proyectos del Curso de Udemy
 
 Este repositorio contiene los proyectos desarrollados durante el curso **"Data Science extremo con Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Machine Learning, y todo lo demás"** de Udemy. En estos proyectos se aplican diversas técnicas de análisis de datos, manipulación de estructuras, visualización y modelado predictivo.
 
