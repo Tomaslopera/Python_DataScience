@@ -49,3 +49,13 @@ Análisis y optimización de un modelo de **Bosques Aleatorios** utilizando un d
 
 ### 11. Dashboard de Terremotos a Nivel Mundial
 Desarrollo de un dashboard interactivo con **Plotly** y **Dash** para visualizar datos de terremotos proporcionados.
+
+### 12. Analizar una Base de Datos de Perros
+Este proyecto tiene como objetivo analizar un dataset con información sobre razas de perros.
+
+
+## Instalación de Dependencias
+Para ejecutar los proyectos, instala las librerías necesarias con:
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn scipy plotly dash
