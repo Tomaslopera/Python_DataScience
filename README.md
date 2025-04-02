@@ -14,7 +14,8 @@ El repositorio está organizado en diferentes carpetas, cada una correspondiente
 - **Scipy**: Algoritmos de clustering jerárquico  
 - **Q-Learning**: Aprendizaje por refuerzo
 - **Plotly**: Visualización interactiva de datos  
-- **Dash**: Creación de dashboards web interactivos 
+- **Dash**: Creación de dashboards web interactivos
+- **Power BI**: Tablero para visualización de datos
 
 ## Proyectos
 ### 1. Análisis de Medallas Olímpicas
@@ -53,6 +54,8 @@ Desarrollo de un dashboard interactivo con **Plotly** y **Dash** para visualizar
 ### 12. Analizar una Base de Datos de Perros
 Este proyecto tiene como objetivo analizar un dataset con información sobre razas de perros.
 
+### 13. Análisis Logístico de Distribución (Power BI)
+Este proyecto tiene como objetivo actuar como el analista de una empresa que se cnuentra en pleno desarrollo e implementar Power BI para tomar decisiones informadas
 
 ## Instalación de Dependencias
 Para ejecutar los proyectos, instala las librerías necesarias con:
